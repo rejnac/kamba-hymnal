@@ -3,7 +3,7 @@
 
 The repository contains all the 469 Mbathi sya Kumutaia Ngai hymnal lyrics in Kamba language also called Masaku or Kikamba.
 
-Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
+**Disclosure:** The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Mbathi sya Kumutaia Ngai is part of several other SDA music lyrics under refinement in different languages. 
 
